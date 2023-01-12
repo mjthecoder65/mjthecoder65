@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1 align="center"> Hey there 👋, I'm Jerry </h1>. 
+Experienced backend Engineer with two years of experience. I am interested in blockchain, Cloud technologies, System and Database design 
+and RestfulAPIs.
 
-<!--
-**mjthecoder65/mjthecoder65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a backend and DevOps Engineer at VegaX.
+- 👯 Wanna collaborate on some project, hit me up any time.
+- ⚡ Fun fact: Love good healthy food and cannot say no to a glass of wine.
+- 👨🏽‍💻 Passionate about problem solving.
+- 💬 Ask me if you have any question. 
+- 👩🏽‍🏫 Teaching is in my veins.
+- 📫 How to reach me: michael53161@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
