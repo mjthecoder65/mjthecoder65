@@ -2,6 +2,7 @@
 I am an experienced backend Engineer with two years of experience. I am interested in blockchain, Cloud Computing, System and Database design 
 and RestfulAPIs. 
 
+
 - 🔭 I’m currently working as a backend and DevOps Engineer at VegaX.
 - 👯 Wanna collaborate on some project, hit me up any time.
 - ⚡ Fun fact: Love healthy food and cannot say no to a glass of wine.
