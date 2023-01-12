@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there 👋, I'm Jerry </h1>. 
+<h1 align="center"> Hey there 👋, Michael Jordan </h1>. 
 Experienced backend Engineer with two years of experience. I am interested in blockchain, Cloud technologies, System and Database design 
 and RestfulAPIs.
 
