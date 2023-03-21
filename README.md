@@ -5,7 +5,7 @@ and RestfulAPIs.
 
 - 🔭 I’m currently working as a backend and DevOps Engineer at VegaX.
 - 👯 Wanna collaborate on some project, hit me up any time.
-- ⚡ Fun fact: Love healthy food and cannot say no to a glass of wine.
+- ⚡ Fun fact: I am a "vegan" and cannot say no to a glass of wine.
 - 👨🏽‍💻 Passionate about problem solving.
 - 💬 Ask me if you have any question. 
 - 👩🏽‍🏫 Teaching is in my veins.
