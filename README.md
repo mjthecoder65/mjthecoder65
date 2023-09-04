@@ -1,6 +1,5 @@
 <h1 align="center"> Hey there 👋, Michael Jordan </h1>
-I am an experienced backend Engineer with three years of experience. I am interested in blockchain, Cloud Computing,Smart Contracts, System and Database design 
-and RestfulAPIs. 
+I am an experienced backend Engineer with three years of experience. I am interested in blockchain, Cloud Computing, smart contracts, and DevOps. 
 
 
 - 🔭 I’m currently working as a backend and DevOps Engineer at VegaX.
