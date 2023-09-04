@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there 👋, Michael Jordan </h1>
-I am an experienced backend Engineer with three years of experience. I am interested in blockchain, Cloud Computing, System and Database design 
+I am an experienced backend Engineer with three years of experience. I am interested in blockchain, Cloud Computing,Smart Contracts, System and Database design 
 and RestfulAPIs. 
 
 
