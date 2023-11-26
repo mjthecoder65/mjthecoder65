@@ -2,7 +2,7 @@
 I am an experienced backend Engineer with three years of experience. I am interested in blockchain, and Cloud Computing.
 
 
-- 🔭 I’m currently working as a backendat VegaX.
+- 🔭 I’m currently working as a backend Engineer at VegaX.
 - 👯 Wanna collaborate on some project, hit me up any time.
 - 👨🏽‍💻 Passionate about problem solving.
 - 💬 Ask me if you have any questions. 
